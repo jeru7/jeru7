@@ -3,6 +3,8 @@
 <br>
 I'm an aspiring full-stack developer, keen to learn more about the field. My repositories primarily track my progress on the journey to becoming a full-stack developer. Most of my projects here start with planning and designing before implementation.
 
+*I recently started making web applications in a 6-week sprint each*
+
 ---
 
 ### Languages and Tools
