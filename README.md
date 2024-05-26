@@ -5,6 +5,8 @@ I'm an aspiring full-stack developer, keen to learn more about the field. My rep
 
 *I recently started making web applications in a 6-week sprint each*
 
+![](https://komarev.com/ghpvc/?username=jeru7)
+
 ---
 
 ### Languages and Tools
