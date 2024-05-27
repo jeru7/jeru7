@@ -5,6 +5,8 @@ I'm an aspiring full-stack developer, keen to learn more about the field. My rep
 
 *I recently started making web applications in a 6-week sprint each*
 
+<a href="https://app.daily.dev/jeru7"><img src="https://api.daily.dev/devcards/v2/r9VEteLykd02xpxgWQJ3I.png?type=wide&r=66z" width="" alt="Emmanuel Ungab's Dev Card"/></a>
+
 ---
 
 ### Languages and Tools
