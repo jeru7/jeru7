@@ -10,21 +10,21 @@ I'm an aspiring full-stack developer, passionate about learning more about the f
 
 ## Development Methodology
 
-I recently started making web applications in a 6-week sprint for each project, with the following structure:
+I recently started following a structured development process for my web applications, which includes:
 
-- **Week 1: Planning** 
+- **Planning** 
 
     Outlining project goals, researching relevant technologies, and setting up the initial project structure.
-- **Week 2: Designing**
+- **Designing**
 
     Creating wireframes, mockups, and planning the project architecture.
-- **Week 3 - 4: Development**
+- **Development**
 
     Developing the core features and functionalities.
-- **Week 5: Testing and Refinement**
+- **Testing and Refinement**
 
     Debugging, user testing, and refining the application based on feedback.
-- **Week 6: Final Testing and Deployment**
+- **Final Testing and Deployment**
 
     Final debugging, testing, documentation, and deployment of the application.
 
