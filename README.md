@@ -36,6 +36,9 @@ I recently started following a structured development process for my web applica
 <img align="left" alt="ReactJS" width="60px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" alt="HTML" width="60px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="left" alt="Java" width="60px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img align="left" alt="TailwindCSS" width="60px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="MongoDB" width="60px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="Postman" width="60px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 <br> 
 
