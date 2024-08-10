@@ -16,7 +16,7 @@
 <img alt="JavaScript" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 
 ### Stats
-<div style="text-align: center">
+<div align="center">
 
 ![jeru7's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeru7&show_icons=true&theme=graywhite)
 
