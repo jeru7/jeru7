@@ -15,10 +15,15 @@
 <img align="left" alt="ReactJS" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" alt="MongoDB" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img alt="JavaScript" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img alt="Python" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 ### Stats
 <div align="center">
 
-![jeru7's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeru7&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeru7&theme=merko&layout=compact)
+
+![jeru7's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeru7&show_icons=true&theme=merko)
+
 
 </div>
