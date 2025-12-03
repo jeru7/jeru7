@@ -20,15 +20,3 @@
 <img alt="Python" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 </div>
-
-
-<div align="center">
-
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeru7&theme=merko&layout=compact)
-
-![jeru7's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeru7&show_icons=true&theme=merko)
-
-
-</div>
